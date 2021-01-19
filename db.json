@@ -12,15 +12,15 @@
       { "id":10,"game":"game2", "type":"bet", "amount":1 }
   ],
   "clients":[
-      { "id":1,"user":"Juan", "type":"person","company":"Empresa1", "dni":"123456789", "country":"Pais1", "estate":1},
-      { "id":2,"user":"Juan", "type":"person","company":"Empresa1", "dni":"123456789", "country":"Pais1", "estate":1},
-      { "id":3,"user":"Juan", "type":"local" ,"company":"Empresa1", "dni":"123456789", "country":"Pais3", "estate":0},
-      { "id":5,"user":"Juan", "type":"person","company":"Empresa3", "dni":"123456783", "country":"Pais1", "estate":1},
-      { "id":6,"user":"Juan", "type":"person","company":"Empresa4", "dni":"123456789", "country":"Pais3", "estate":0},
-      { "id":7,"user":"Juan", "type":"local","company":"Empresa1", "dni":"123456781", "country":"Pais1", "estate":1},
-      { "id":8,"user":"Juan", "type":"person","company":"Empresa2", "dni":"123456769", "country":"Pais1", "estate":0},
-      { "id":9,"user":"Juan", "type":"person","company":"Empresa1", "dni":"123456789", "country":"Pais1", "estate":1},
-      { "id":10,"user":"Juan", "type":"person","company":"Empresa1", "dni":"123456789", "country":"Pais1", "estate":1}
+      { "id":1,"user":"Juan", "type":"person","company":"Empresa1", "type_doc":"dni", "dni":"123456789", "country":"Pais1", "estate":1 , "email":"Correo"},
+      { "id":2,"user":"Juan", "type":"person","company":"Empresa1" , "type_doc":"dni", "dni":"123456789", "country":"Pais1", "estate":1 , "email":"Correo"},
+      { "id":3,"user":"Juan", "type":"local" ,"company":"Empresa1" , "type_doc":"dni", "dni":"123456789", "country":"Pais3", "estate":0 , "email":"Correo"},
+      { "id":5,"user":"Juan", "type":"person","company":"Empresa3" , "type_doc":"dni", "dni":"123456783", "country":"Pais1", "estate":1 , "email":"Correo"},
+      { "id":6,"user":"Juan", "type":"person","company":"Empresa4" , "type_doc":"dni", "dni":"123456789", "country":"Pais3", "estate":0 , "email":"Correo"},
+      { "id":7,"user":"Juan", "type":"local","company":"Empresa1" , "type_doc":"dni", "dni":"123456781", "country":"Pais1", "estate":1 , "email":"Correo"},
+      { "id":8,"user":"Juan", "type":"person","company":"Empresa2" , "type_doc":"dni", "dni":"123456769", "country":"Pais1", "estate":0 , "email":"Correo"},
+      { "id":9,"user":"Juan", "type":"person","company":"Empresa1" , "type_doc":"dni", "dni":"123456789", "country":"Pais1", "estate":1 , "email":"Correo"},
+      { "id":10,"user":"Juan", "type":"person","company":"Empresa1" , "type_doc":"dni", "dni":"123456789", "country":"Pais1", "estate":1 , "email":"Correo"}
   ],
   "messages":[
       {"id":1,"from":"Juan", "to":"Luis","message":"Hola"},
