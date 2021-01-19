@@ -10,6 +10,19 @@
       { "id":9,"user":"Juan", "type":"person"},
       { "id":10,"user":"Juan", "type":"person"}
   ],
+  "messages":[
+      {"id":1,"from":"Juan", "to":"Luis","message":"Hola"},
+      {"id":2,"from":"Juan", "to":"Luis","message":"Hola"},
+      {"id":3,"from":"Juan", "to":"Luis","message":"Hola"},
+      {"id":4,"from":"Juan", "to":"Luis","message":"Hola"},
+      {"id":5,"from":"Juan", "to":"Luis","message":"Hola"},
+      {"id":6,"from":"Juan", "to":"Luis","message":"Hola"},
+      {"id":7,"from":"Juan", "to":"Luis","message":"Hola"},
+      {"id":8,"from":"Juan", "to":"Luis","message":"Hola"},
+      {"id":9,"from":"Juan", "to":"Luis","message":"Hola"},
+      {"id":10,"from":"Juan", "to":"Luis","message":"Hola"},
+      {"id":11,"from":"Juan", "to":"Luis","message":"Hola"}
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
