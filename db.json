@@ -9,6 +9,6 @@
       {"id":7, "user":"Juan", "amount":1.1, "type":"bet"},
       {"id":8, "user":"Juan", "amount":1.1, "type":"bet"},
       {"id":9, "user":"Juan", "amount":1.1, "type":"bet"},
-      {"id":10, "user":"Juan", "amount":1.1, "type":"bet"},
+      {"id":10, "user":"Juan", "amount":1.1, "type":"bet"}
   ]
 }
