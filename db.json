@@ -1,8 +1,8 @@
 {
   "transactions":{
     "status":1,
-    "errrcode":'OK-00',
-    "errmsg":'OK',
+    "errrcode":"OK-00",
+    "errmsg":"OK",
     "total":20,
     "data":[
       {"id":1,"user":"Juan","amount":1.1, "type":"bet"},
