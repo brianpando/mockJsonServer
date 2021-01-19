@@ -1,8 +1,14 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "clients":[
+      { "id":1,"user":"Juan", "type":"person"},
+      { "id":2,"user":"Juan", "type":"person"},
+      { "id":3,"user":"Juan", "type":"local"},
+      { "id":5,"user":"Juan", "type":"person"},
+      { "id":6,"user":"Juan", "type":"person"},
+      { "id":7,"user":"Juan", "type":"local"},
+      { "id":8,"user":"Juan", "type":"person"},
+      { "id":9,"user":"Juan", "type":"person"},
+      { "id":10,"user":"Juan", "type":"person"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
