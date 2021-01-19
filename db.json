@@ -1,12 +1,7 @@
 {
-  "transactions":{
-    "status":1,
-    "errrcode":"OK-00",
-    "errmsg":"OK",
-    "total":20,
-    "data":[
+  "transactions":[
       {"id":1,"user":"Juan","amount":1.1, "type":"bet"},
       {"id":2,"user":"Juan","amount":1.1, "type":"bet"}
-    ]
-  }
+  ]
+  
 }
