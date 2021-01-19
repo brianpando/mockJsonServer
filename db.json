@@ -20,7 +20,7 @@
       {"id":7,"user":"Juan", "type":"local"},
       {"id":8,"user":"Juan", "type":"person"},
       {"id":9,"user":"Juan", "type":"person"},
-      {"id":10,"user":"Juan", "type":"person"},
+      {"id":10,"user":"Juan", "type":"person"}
   ],
   "messages":[
       {"id":1,"from":"Juan", "to":"Luis","message":"Hola"},
@@ -33,7 +33,7 @@
       {"id":8,"from":"Juan", "to":"Luis","message":"Hola"},
       {"id":9,"from":"Juan", "to":"Luis","message":"Hola"},
       {"id":10,"from":"Juan", "to":"Luis","message":"Hola"},
-      {"id":11,"from":"Juan", "to":"Luis","message":"Hola"},
+      {"id":11,"from":"Juan", "to":"Luis","message":"Hola"}
   ],
   "games":[
       {"id":1,"name":"Juego1", "category":"slot","brand":"eBet","img":"https://test.apiuniversalsoft.com/img/sl_bellsonfirerombo.jpg"},
@@ -45,7 +45,7 @@
       {"id":7,"name":"Juego7", "category":"slot","brand":"eBet","img":"https://test.apiuniversalsoft.com/img/sl_bellsonfirerombo.jpg"},
       {"id":8,"name":"Juego8", "category":"slot","brand":"eBet","img":"https://test.apiuniversalsoft.com/img/sl_bellsonfirerombo.jpg"},
       {"id":9,"name":"Juego9", "category":"slot","brand":"eBet","img":"https://test.apiuniversalsoft.com/img/sl_bellsonfirerombo.jpg"},
-      {"id":10,"name":"Juego10", "category":"slot","brand":"eBet","img":"https://test.apiuniversalsoft.com/img/sl_bellsonfirerombo.jpg"},
+      {"id":10,"name":"Juego10", "category":"slot","brand":"eBet","img":"https://test.apiuniversalsoft.com/img/sl_bellsonfirerombo.jpg"}
   ],
   
 }
