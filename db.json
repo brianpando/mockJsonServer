@@ -1,4 +1,11 @@
 {
+  "transactions":[
+      { "id":1,"game":"game1", "type":"bet", "amount":1 },
+      { "id":2,"game":"game1", "type":"bet", "amount":1 },
+      { "id":3,"game":"game1", "type":"bet", "amount":1 },
+      { "id":4,"game":"game1", "type":"bet", "amount":1 },
+      { "id":5,"game":"game2", "type":"bet", "amount":1 }
+  ],
   "clients":[
       { "id":1,"user":"Juan", "type":"person"},
       { "id":2,"user":"Juan", "type":"person"},
