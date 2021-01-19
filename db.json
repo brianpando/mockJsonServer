@@ -6,6 +6,7 @@
     "total":20,
     "data":[
       {"id":1,"user":"Juan","amount":1.1, "type":"bet"},
+      {"id":2,"user":"Juan","amount":1.1, "type":"bet"}
     ]
   }
 }
