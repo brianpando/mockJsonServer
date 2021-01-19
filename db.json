@@ -4,7 +4,12 @@
       { "id":2,"game":"game1", "type":"bet", "amount":1 },
       { "id":3,"game":"game1", "type":"bet", "amount":1 },
       { "id":4,"game":"game1", "type":"bet", "amount":1 },
-      { "id":5,"game":"game2", "type":"bet", "amount":1 }
+      { "id":5,"game":"game2", "type":"bet", "amount":1 },
+      { "id":6,"game":"game2", "type":"bet", "amount":1 },
+      { "id":7,"game":"game2", "type":"bet", "amount":1 },
+      { "id":8,"game":"game2", "type":"bet", "amount":1 },
+      { "id":9,"game":"game2", "type":"bet", "amount":1 },
+      { "id":10,"game":"game2", "type":"bet", "amount":1 }
   ],
   "clients":[
       { "id":1,"user":"Juan", "type":"person"},
