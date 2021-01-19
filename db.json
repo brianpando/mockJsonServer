@@ -1,7 +1,51 @@
 {
   "transactions":[
       {"id":1,"user":"Juan","amount":1.1, "type":"bet"},
-      {"id":2,"user":"Juan","amount":1.1, "type":"bet"}
-  ]
+      {"id":2,"user":"Juan","amount":1.1, "type":"bet"},
+      {"id":3,"user":"Juan","amount":1.1, "type":"bet"},
+      {"id":4,"user":"Juan","amount":1.1, "type":"bet"},
+      {"id":5,"user":"Juan","amount":1.1, "type":"bet"},
+      {"id":6,"user":"Juan","amount":1.1, "type":"bet"},
+      {"id":7,"user":"Juan","amount":1.1, "type":"bet"},
+      {"id":8,"user":"Juan","amount":1.1, "type":"bet"},
+      {"id":9,"user":"Juan","amount":1.1, "type":"bet"},
+      {"id":10,"user":"Juan","amount":1.1, "type":"bet"}
+  ],
+  "clients":[
+      {"id":1,"user":"Juan", "type":"person"},
+      {"id":2,"user":"Juan", "type":"person"},
+      {"id":3,"user":"Juan", "type":"local"},
+      {"id":5,"user":"Juan", "type":"person"},
+      {"id":6,"user":"Juan", "type":"person"},
+      {"id":7,"user":"Juan", "type":"local"},
+      {"id":8,"user":"Juan", "type":"person"},
+      {"id":9,"user":"Juan", "type":"person"},
+      {"id":10,"user":"Juan", "type":"person"},
+  ],
+  "messages":[
+      {"id":1,"from":"Juan", "to":"Luis","message":"Hola"},
+      {"id":2,"from":"Juan", "to":"Luis","message":"Hola"},
+      {"id":3,"from":"Juan", "to":"Luis","message":"Hola"},
+      {"id":4,"from":"Juan", "to":"Luis","message":"Hola"},
+      {"id":5,"from":"Juan", "to":"Luis","message":"Hola"},
+      {"id":6,"from":"Juan", "to":"Luis","message":"Hola"},
+      {"id":7,"from":"Juan", "to":"Luis","message":"Hola"},
+      {"id":8,"from":"Juan", "to":"Luis","message":"Hola"},
+      {"id":9,"from":"Juan", "to":"Luis","message":"Hola"},
+      {"id":10,"from":"Juan", "to":"Luis","message":"Hola"},
+      {"id":11,"from":"Juan", "to":"Luis","message":"Hola"},
+  ],
+  "games":[
+      {"id":1,"name":"Juego1", "category":"slot","brand":"eBet","img":"https://test.apiuniversalsoft.com/img/sl_bellsonfirerombo.jpg"},
+      {"id":2,"name":"Juego2", "category":"slot","brand":"eBet","img":"https://test.apiuniversalsoft.com/img/sl_bellsonfirerombo.jpg"},
+      {"id":3,"name":"Juego3", "category":"slot","brand":"eBet","img":"https://test.apiuniversalsoft.com/img/sl_bellsonfirerombo.jpg"},
+      {"id":4,"name":"Juego4", "category":"slot","brand":"eBet","img":"https://test.apiuniversalsoft.com/img/sl_bellsonfirerombo.jpg"},
+      {"id":5,"name":"Juego5", "category":"slot","brand":"eBet","img":"https://test.apiuniversalsoft.com/img/sl_bellsonfirerombo.jpg"},
+      {"id":6,"name":"Juego6", "category":"slot","brand":"eBet","img":"https://test.apiuniversalsoft.com/img/sl_bellsonfirerombo.jpg"},
+      {"id":7,"name":"Juego7", "category":"slot","brand":"eBet","img":"https://test.apiuniversalsoft.com/img/sl_bellsonfirerombo.jpg"},
+      {"id":8,"name":"Juego8", "category":"slot","brand":"eBet","img":"https://test.apiuniversalsoft.com/img/sl_bellsonfirerombo.jpg"},
+      {"id":9,"name":"Juego9", "category":"slot","brand":"eBet","img":"https://test.apiuniversalsoft.com/img/sl_bellsonfirerombo.jpg"},
+      {"id":10,"name":"Juego10", "category":"slot","brand":"eBet","img":"https://test.apiuniversalsoft.com/img/sl_bellsonfirerombo.jpg"},
+  ],
   
 }
