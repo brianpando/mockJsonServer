@@ -47,10 +47,6 @@
       {"id":9,"name":"Juego9", "category":"slot","brand":"eBet","img":"https://test.apiuniversalsoft.com/img/sl_bellsonfirerombo.jpg"},
       {"id":10,"name":"Juego10", "category":"slot","brand":"eBet","img":"https://test.apiuniversalsoft.com/img/sl_bellsonfirerombo.jpg"}
   ],
-  "comments": [
-    { "id": 1, "body": "some comment1", "postId": 1 },
-    { "id": 2, "body": "some comment2", "postId": 1 }
-  ],
   "profile": {
     "name": "brian"
   }
