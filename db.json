@@ -79,6 +79,13 @@
       {"id":10,"name":"Juego10", "category":"slot","brand":"eBet","img":"https://test.apiuniversalsoft.com/img/sl_bellsonfirerombo.jpg"}
   ],
   "profile": {
-    "name": "brian"
+    "name": "brian",
+    "theme":{
+      "banners":[
+        "http://demo.apiuniversalsoft.com/images/casino/slider3.png"
+      ],
+      "font":2,
+      "theme":2
+    }
   }
 }
