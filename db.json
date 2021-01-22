@@ -81,9 +81,7 @@
   "profile": {
     "name": "brian",
     "theme":{
-      "banners":[
-        "ruta":"http://demo.apiuniversalsoft.com/images/casino/slider3.png"
-      ],
+      "banners":"http://demo.apiuniversalsoft.com/images/casino/slider3.png",
       "font":2,
       "theme":2
     }
