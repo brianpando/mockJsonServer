@@ -82,7 +82,7 @@
     "name": "brian",
     "theme":{
       "banners":[
-        "http://demo.apiuniversalsoft.com/images/casino/slider3.png"
+        "ruta":"http://demo.apiuniversalsoft.com/images/casino/slider3.png"
       ],
       "font":2,
       "theme":2
