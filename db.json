@@ -21,9 +21,9 @@
       { "id":10,"game":"game2", "type":"bet", "amount":1 }
   ],
   "clients":[
-      { "id":1,"user":"Juan", "type":"person","company":"Empresa1", "type_doc":"dni", "dni":"123456789", "country":"Pais1", "state":1 , "email":"Correo","password":"123123"},
-      { "id":2,"user":"Juan", "type":"person","company":"Empresa1" , "type_doc":"dni", "dni":"123456789", "country":"Pais1", "state":1 , "email":"Correo","password":"12312312" },
-      { "id":3,"user":"Juan", "type":"local" ,"company":"Empresa1" , "type_doc":"dni", "dni":"123456789", "country":"Pais3", "state":0 , "email":"Correo"},
+      { "id":1,"user":"Juan1", "type":"person","company":"Empresa1", "type_doc":"dni", "dni":"123456789", "country":"Pais1", "state":1 , "email":"Correo","password":"123123"},
+      { "id":2,"user":"Juan2", "type":"person","company":"Empresa1" , "type_doc":"dni", "dni":"123456789", "country":"Pais1", "state":1 , "email":"Correo","password":"12312312" },
+      { "id":3,"user":"Juan3", "type":"local" ,"company":"Empresa1" , "type_doc":"dni", "dni":"123456789", "country":"Pais3", "state":0 , "email":"Correo","password":"1231231" },
       { "id":5,"user":"Juan", "type":"person","company":"Empresa3" , "type_doc":"dni", "dni":"123456783", "country":"Pais1", "state":1 , "email":"Correo"},
       { "id":6,"user":"Juan", "type":"person","company":"Empresa4" , "type_doc":"dni", "dni":"123456789", "country":"Pais3", "state":0 , "email":"Correo"},
       { "id":7,"user":"Juan", "type":"local","company":"Empresa1" , "type_doc":"dni", "dni":"123456781", "country":"Pais1", "state":1 , "email":"Correo"},
