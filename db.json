@@ -21,23 +21,11 @@
       { "id":10,"game":"game2", "type":"bet", "amount":1 }
   ],
   "clients":[
-      { "id":1,"user":"Juan1", "type":"person","company":"Empresa1", "type_doc":"dni", "dni":"123456789", "country":"Pais1", "state":1 , "email":"Correo","password":"123123"},
-      { "id":2,"user":"Juan2", "type":"person","company":"Empresa1" , "type_doc":"dni", "dni":"123456789", "country":"Pais1", "state":1 , "email":"Correo","password":"12312312" },
-      { "id":3,"user":"Juan3", "type":"local" ,"company":"Empresa1" , "type_doc":"dni", "dni":"123456789", "country":"Pais3", "state":0 , "email":"Correo","password":"1231231" },
-      { "id":5,"user":"Juan", "type":"person","company":"Empresa3" , "type_doc":"dni", "dni":"123456783", "country":"Pais1", "state":1 , "email":"Correo"},
-      { "id":6,"user":"Juan", "type":"person","company":"Empresa4" , "type_doc":"dni", "dni":"123456789", "country":"Pais3", "state":0 , "email":"Correo"},
-      { "id":7,"user":"Juan", "type":"local","company":"Empresa1" , "type_doc":"dni", "dni":"123456781", "country":"Pais1", "state":1 , "email":"Correo"},
-      { "id":8,"user":"Juan", "type":"person","company":"Empresa2" , "type_doc":"dni", "dni":"123456769", "country":"Pais1", "state":0 , "email":"Correo"},
-      { "id":9,"user":"Juan", "type":"person","company":"Empresa1" , "type_doc":"dni", "dni":"123456789", "country":"Pais1", "state":1 , "email":"Correo"},
-      { "id":10,"user":"Juan", "type":"person","company":"Empresa1" , "type_doc":"dni", "dni":"123456789", "country":"Pais1", "state":1 , "email":"Correo"},
-      { "id":9,"user":"Juan", "type":"person","company":"Empresa1" , "type_doc":"dni", "dni":"123456789", "country":"Pais1", "state":1 , "email":"Correo"},
-      { "id":10,"user":"Juan", "type":"person","company":"Empresa1" , "type_doc":"dni", "dni":"123456789", "country":"Pais1", "state":1 , "email":"Correo"},
-      { "id":9,"user":"Juan", "type":"person","company":"Empresa1" , "type_doc":"dni", "dni":"123456789", "country":"Pais1", "state":1 , "email":"Correo"},
-      { "id":10,"user":"Juan", "type":"person","company":"Empresa1" , "type_doc":"dni", "dni":"123456789", "country":"Pais1", "state":1 , "email":"Correo"},
-      { "id":9,"user":"Juan", "type":"person","company":"Empresa1" , "type_doc":"dni", "dni":"123456789", "country":"Pais1", "state":1 , "email":"Correo"},
-      { "id":10,"user":"Juan", "type":"person","company":"Empresa1" , "type_doc":"dni", "dni":"123456789", "country":"Pais1", "state":1 , "email":"Correo"},
-      { "id":9,"user":"Juan", "type":"person","company":"Empresa1" , "type_doc":"dni", "dni":"123456789", "country":"Pais1", "state":1 , "email":"Correo"},
-      { "id":10,"user":"Juan", "type":"person","company":"Empresa1" , "type_doc":"dni", "dni":"123456789", "country":"Pais1", "state":1 , "email":"Correo"}
+      { "id":1,"user":"Juan","state":1 , "email":"universal@universal.com","password":"123","token":"123u6u7trgefewgerhj3hfghiehwoqehrowi"},
+      { "id":2,"user":"Juan","state":1 , "email":"universal1@universal.com","password":"1234","token":"123u6u7trgefewgerhj3ieesddhwoqehrowi"},
+     { "id":3,"user":"Juan","state":0 , "email":"universal2@universal.com","password":"12345","token":"123u6u7trgefewgerhdgfdj3iehwoqehrowi"},
+     { "id":4,"user":"Juan","state":1 , "email":"universa3@universal.com","password":"123456","token":"123u6u7trgefewgedfgdrhj3iehwoqehrowi"},
+      
   ],
   "messages":[
       {"id":1,"from":"Juan", "to":"Luis","message":"Hola" , "date":"12/12/2020" , "state":1},
