@@ -21,10 +21,10 @@
       { "id":10,"game":"game2", "type":"bet", "amount":1 }
   ],
   "clients":[
-      { "id":1,"user":"Juan","state":1 , "email":"universal@universal.com","password":"123","token":"123u6u7trgefewgerhj3hfghiehwoqehrowi"},
-      { "id":2,"user":"Juan","state":1 , "email":"universal1@universal.com","password":"1234","token":"123u6u7trgefewgerhj3ieesddhwoqehrowi"},
-     { "id":3,"user":"Juan","state":0 , "email":"universal2@universal.com","password":"12345","token":"123u6u7trgefewgerhdgfdj3iehwoqehrowi"},
-     { "id":4,"user":"Juan","state":1 , "email":"universa3@universal.com","password":"123456","token":"123u6u7trgefewgedfgdrhj3iehwoqehrowi"},
+      { "id":1,"user":"Juan","state":1 , "email":"universal@universal.com","password":"123","api-token":"123u6u7trgefewgerhj3hfghiehwoqehrowi"},
+      { "id":2,"user":"Juan","state":1 , "email":"universal1@universal.com","password":"1234","api-token":"123u6u7trgefewgerhj3ieesddhwoqehrowi"},
+     { "id":3,"user":"Juan","state":0 , "email":"universal2@universal.com","password":"12345","api-token":"123u6u7trgefewgerhdgfdj3iehwoqehrowi"},
+     { "id":4,"user":"Juan","state":1 , "email":"universa3@universal.com","password":"123456","api-token":"123u6u7trgefewgedfgdrhj3iehwoqehrowi"},
       
   ],
   "messages":[
